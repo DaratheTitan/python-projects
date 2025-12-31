@@ -3,8 +3,8 @@
 Welcome to my Python projects repository! This repository contains small projects and practice exercises I have created to improve my Python programming and problem-solving skills.
 
 ## Projects Included
-- **Dara'spp.py** – [Brief description of what this script does]
-- **dabs.py** – [Brief description]
+- **Dara'spp.py** 
+- **dabs.py** 
 - **employees.txt / employees1.txt** – Sample data files used in projects
 - **practice.py** – Python practice exercises
 - **pythonclass.py** – Examples of classes and OOP principles
