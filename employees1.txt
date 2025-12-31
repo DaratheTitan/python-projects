@@ -1,0 +1,3 @@
+what do we know about prime numbers:
+They can only be divided by 1 and themselves without remainder
+
